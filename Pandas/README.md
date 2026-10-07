@@ -21,22 +21,9 @@ Low-priority topics intentionally parked:
 
 ## Assessment takeaway
 
-### Strengths
-- Understands Pandas concepts well after explanation.
-- Can correctly use many functions once the required operation is identified.
-- Good understanding of GroupBy, aggregation, merge logic, feature engineering, and the Pandas → ML bridge.
+The Pandas assessment covered filtering, missing values, sorting, GroupBy, aggregation, merging, feature engineering, and Pandas-to-ML workflows.
 
-### Main weakness
-The main gap is retrieval and code assembly from a blank question:
-- Translating natural-language requirements into Pandas operations.
-- Choosing the correct function without a prompt.
-- Combining operations in the correct order.
-- Selecting multiple columns with the correct bracket structure.
-- Recalling previously learned cleaning functions such as fillna().
-
-This is a practice/retrieval problem, not a lack of conceptual understanding.
-
-## High-priority recall patterns
+## Core practice patterns
 
 ```python
 # Boolean filtering + selected columns
@@ -68,18 +55,15 @@ result = (
 )
 ```
 
-## Practice strategy
+## Practice approach
 
 1. Read the English question.
 2. Identify the required operation in plain English.
 3. Translate each operation into Pandas.
 4. Combine the operations in the correct order.
-5. Repeat from a blank screen.
-
-The goal is to make common patterns automatic through retrieval practice.
+5. Practice realistic end-to-end analysis tasks.
 
 ## Next checkpoint
-- Continue mixed Pandas retrieval practice.
-- Revisit weak patterns with spaced repetition.
+- Continue mixed Pandas practice.
 - Complete a realistic end-to-end Pandas analysis.
 - Then move fully into ML implementation.

@@ -63,7 +63,3 @@ result = (
 4. Combine the operations in the correct order.
 5. Practice realistic end-to-end analysis tasks.
 
-## Next checkpoint
-- Continue mixed Pandas practice.
-- Complete a realistic end-to-end Pandas analysis.
-- Then move fully into ML implementation.

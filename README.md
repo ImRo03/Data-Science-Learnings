@@ -10,7 +10,7 @@ I am keeping the topics in the order I learned them and adding my practice work 
 - SQL
 - NumPy
 - Pandas
-- Statistics
+- Statistics ✅
 - EDA
 - Feature Engineering
 - Machine Learning
@@ -28,3 +28,10 @@ SQL practice will be added here as I continue working with SQL.
 NumPy practice is inside the NumPy folder.
 
 More topics will be added as I complete them.
+
+
+## Statistics
+
+Statistics learning is complete, including descriptive statistics, probability, distributions, sampling, confidence intervals, hypothesis testing, correlation, and related interview concepts.
+
+The Statistics checkpoint is inside the Statistics folder.

@@ -1,7 +1,7 @@
 # Statistics
 
 ## Status
-**Complete ✅**
+**Complete **
 
 This section contains the Statistics learning notebook and completion checkpoint used for the Data Science roadmap.
 
@@ -15,5 +15,4 @@ This section contains the Statistics learning notebook and completion checkpoint
 - Correlation and covariance
 - Basic skewness, kurtosis and weighted statistics
 
-## Next
-Visualization with Matplotlib and Seaborn, followed by EDA.
+

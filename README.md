@@ -6,7 +6,7 @@ I am following a step-by-step learning path and adding notes, exercises, dataset
 
 ## Data Science Roadmap
 
-### 1. Python ✅
+### 1. Python 
 
 - Python fundamentals
 - Data types and control flow
@@ -17,7 +17,7 @@ I am following a step-by-step learning path and adding notes, exercises, dataset
 - OOP
 - Logic building and problem solving
 
-### 2. SQL — In Progress
+### 2. SQL 
 
 - SQL fundamentals
 - DDL and DML
@@ -30,7 +30,7 @@ I am following a step-by-step learning path and adding notes, exercises, dataset
 - Window functions
 - Real-world SQL practice
 
-### 3. NumPy ✅
+### 3. NumPy 
 
 - Arrays and dimensions
 - Data types
@@ -41,7 +41,7 @@ I am following a step-by-step learning path and adding notes, exercises, dataset
 - Broadcasting
 - Numerical data processing
 
-### 4. Pandas ✅
+### 4. Pandas 
 
 - Series and DataFrames
 - Reading and writing data
@@ -54,7 +54,7 @@ I am following a step-by-step learning path and adding notes, exercises, dataset
 - Reshaping data
 - Data cleaning and preparation
 
-### 5. Statistics ✅
+### 5. Statistics 
 
 - Descriptive statistics
 - Probability
@@ -73,7 +73,7 @@ I am following a step-by-step learning path and adding notes, exercises, dataset
 
 ### 6. Visualization
 
-#### Matplotlib ✅
+#### Matplotlib 
 
 - Figure and Axes
 - Line charts
@@ -165,53 +165,7 @@ Build end-to-end projects that combine:
 - Business problem solving
 - Documentation and GitHub workflow
 
-### 12. Interview Preparation
-
-- Python interview questions
-- SQL interview questions
-- Statistics interview questions
-- Data Science concepts
-- EDA and case-study questions
-- Machine Learning questions
-- Business and analytical thinking
-- Explaining projects clearly
-
-### 13. Resume, GitHub and LinkedIn
-
-- Resume preparation
-- Project presentation
-- GitHub organization
-- Documentation
-- LinkedIn profile improvement
-- Portfolio building
-
-### 14. Job Applications
-
-- Data Analyst and Data Science opportunities
-- Internship and entry-level roles
-- Resume customization
-- Company research
-- Interview preparation
-- Application tracking
-
-### 15. Later / Advanced Skills
-
-After the core Data Science path, advanced tools and technologies can be added based on job requirements and project needs, such as:
-
-- Excel
-- APIs and data collection
-- Tableau / Power BI
-- Cloud platforms
-- PySpark
-- Docker
-- MLOps
-- Deep Learning
-- NLP
-- Generative AI / LLM applications
-- Advanced data engineering
-
 ## Repository Structure
 
 Each major topic has its own folder containing learning notes, practice work, and related projects.
 
-The goal of this repository is not only to learn libraries and syntax, but to build the ability to solve real Data Science problems from understanding the data to communicating the final insight.

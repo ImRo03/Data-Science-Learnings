@@ -53,6 +53,6 @@ The main focus was not only learning syntax, but also deciding:
 
 The main learning notebook for this folder is:
 
-`Matplotlib_Learning.ipynb`
+`Matplotlib.ipynb`
 
 It contains my notes, code, practice questions and chart examples.

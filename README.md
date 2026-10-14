@@ -6,7 +6,8 @@ I am following a step-by-step learning path and adding notes, exercises, dataset
 
 ## Data Science Roadmap
 
-### 1. Python 
+### 1. Python ✅
+
 - Python fundamentals
 - Data types and control flow
 - Functions
@@ -16,7 +17,8 @@ I am following a step-by-step learning path and adding notes, exercises, dataset
 - OOP
 - Logic building and problem solving
 
-### 2. SQL 
+### 2. SQL — In Progress
+
 - SQL fundamentals
 - DDL and DML
 - Filtering and sorting
@@ -28,7 +30,8 @@ I am following a step-by-step learning path and adding notes, exercises, dataset
 - Window functions
 - Real-world SQL practice
 
-### 3. NumPy 
+### 3. NumPy ✅
+
 - Arrays and dimensions
 - Data types
 - Indexing and slicing
@@ -38,7 +41,8 @@ I am following a step-by-step learning path and adding notes, exercises, dataset
 - Broadcasting
 - Numerical data processing
 
-### 4. Pandas 
+### 4. Pandas ✅
+
 - Series and DataFrames
 - Reading and writing data
 - Selecting and filtering data
@@ -50,7 +54,8 @@ I am following a step-by-step learning path and adding notes, exercises, dataset
 - Reshaping data
 - Data cleaning and preparation
 
-### 5. Statistics 
+### 5. Statistics ✅
+
 - Descriptive statistics
 - Probability
 - Conditional probability and Bayes
@@ -66,7 +71,10 @@ I am following a step-by-step learning path and adding notes, exercises, dataset
 - Correlation
 - Statistical reasoning for Data Science
 
-### 6. Matplotlib 
+### 6. Visualization
+
+#### Matplotlib ✅
+
 - Figure and Axes
 - Line charts
 - Bar charts
@@ -83,7 +91,8 @@ I am following a step-by-step learning path and adding notes, exercises, dataset
 - Pandas + Matplotlib
 - Real-world visualization practice
 
-### 7. Seaborn
+#### Seaborn
+
 - Statistical visualizations
 - Distribution plots
 - Categorical plots
@@ -91,7 +100,8 @@ I am following a step-by-step learning path and adding notes, exercises, dataset
 - Heatmaps
 - Advanced visualization for analysis
 
-### 8. Exploratory Data Analysis (EDA)
+### 7. Exploratory Data Analysis (EDA)
+
 - Understanding the business problem
 - Understanding the dataset
 - Data quality checks
@@ -103,8 +113,10 @@ I am following a step-by-step learning path and adding notes, exercises, dataset
 - Visualization and storytelling
 - Finding insights and making business recommendations
 
-### 9. Real-World Dataset Practice
-Practice EDA and analysis on multiple realistic datasets from different business areas, such as:
+### 8. Real-World Dataset Practice
+
+Practice EDA and analysis on realistic datasets from different business areas, including:
+
 - E-commerce
 - Finance
 - Marketing
@@ -112,7 +124,10 @@ Practice EDA and analysis on multiple realistic datasets from different business
 - Operations
 - Other practical business datasets
 
-### 10. Machine Learning
+The focus will be on deciding what to investigate, choosing the relevant columns, selecting the correct analysis and visualization, interpreting the result, and making a useful business recommendation.
+
+### 9. Machine Learning
+
 - Machine learning workflow
 - Supervised and unsupervised learning
 - Regression
@@ -126,7 +141,8 @@ Practice EDA and analysis on multiple realistic datasets from different business
 - ML pipelines
 - Practical model building
 
-### 11. Advanced Machine Learning
+### 10. Advanced Machine Learning
+
 - Ensemble methods
 - Feature selection
 - Hyperparameter tuning
@@ -135,8 +151,10 @@ Practice EDA and analysis on multiple realistic datasets from different business
 - Model interpretation
 - Improving generalization and reliability
 
-### 12. Projects
+### 11. Projects
+
 Build end-to-end projects that combine:
+
 - Python
 - SQL
 - Pandas and NumPy
@@ -147,8 +165,53 @@ Build end-to-end projects that combine:
 - Business problem solving
 - Documentation and GitHub workflow
 
+### 12. Interview Preparation
+
+- Python interview questions
+- SQL interview questions
+- Statistics interview questions
+- Data Science concepts
+- EDA and case-study questions
+- Machine Learning questions
+- Business and analytical thinking
+- Explaining projects clearly
+
+### 13. Resume, GitHub and LinkedIn
+
+- Resume preparation
+- Project presentation
+- GitHub organization
+- Documentation
+- LinkedIn profile improvement
+- Portfolio building
+
+### 14. Job Applications
+
+- Data Analyst and Data Science opportunities
+- Internship and entry-level roles
+- Resume customization
+- Company research
+- Interview preparation
+- Application tracking
+
+### 15. Later / Advanced Skills
+
+After the core Data Science path, advanced tools and technologies can be added based on job requirements and project needs, such as:
+
+- Excel
+- APIs and data collection
+- Tableau / Power BI
+- Cloud platforms
+- PySpark
+- Docker
+- MLOps
+- Deep Learning
+- NLP
+- Generative AI / LLM applications
+- Advanced data engineering
 
 ## Repository Structure
 
 Each major topic has its own folder containing learning notes, practice work, and related projects.
 
+The goal of this repository is not only to learn libraries and syntax, but to build the ability to solve real Data Science problems from understanding the data to communicating the final insight.

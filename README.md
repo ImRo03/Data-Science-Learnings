@@ -10,7 +10,7 @@ I am keeping the topics in the order I learned them and adding my practice work 
 - SQL
 - NumPy
 - Pandas
-- Statistics ✅
+- Statistics 
 - EDA
 - Feature Engineering
 - Machine Learning

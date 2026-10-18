@@ -5,167 +5,32 @@ This repository contains my learning, practice, and project work while building 
 I am following a step-by-step learning path and adding notes, exercises, datasets, and projects as I complete each stage.
 
 ## Data Science Roadmap
+### 1. Python
+Python fundamentals, data types, control flow, functions, collections, file handling, exception handling, OOP, and logic building.
 
-### 1. Python 
+### 2. SQL
+SQL fundamentals, DDL and DML, filtering, aggregation, GROUP BY/HAVING, joins, subqueries, CTEs, window functions, and practical SQL.
 
-- Python fundamentals
-- Data types and control flow
-- Functions
-- Lists, tuples, sets, dictionaries
-- File handling
-- Exception handling
-- OOP
-- Logic building and problem solving
+### 3. NumPy
+Arrays, dimensions, data types, indexing, reshaping, vectorized operations, aggregation, broadcasting, and numerical processing.
 
-### 2. SQL 
+### 4. Pandas
+Series and DataFrames, loading data, selecting/filtering, sorting, missing values, duplicates, GroupBy, joins, reshaping, cleaning and preparation.
 
-- SQL fundamentals
-- DDL and DML
-- Filtering and sorting
-- Aggregate functions
-- GROUP BY and HAVING
-- Joins
-- Subqueries
-- CTEs
-- Window functions
-- Real-world SQL practice
-
-### 3. NumPy 
-
-- Arrays and dimensions
-- Data types
-- Indexing and slicing
-- Reshaping
-- Vectorized operations
-- Aggregations
-- Broadcasting
-- Numerical data processing
-
-### 4. Pandas 
-
-- Series and DataFrames
-- Reading and writing data
-- Selecting and filtering data
-- Sorting
-- Missing-value handling
-- Duplicates
-- GroupBy and aggregation
-- Merging and joining data
-- Reshaping data
-- Data cleaning and preparation
-
-### 5. Statistics 
-
-- Descriptive statistics
-- Probability
-- Conditional probability and Bayes
-- Random variables
-- PMF, PDF, and CDF
-- Distributions
-- Normal distribution and z-scores
-- Sampling and sampling distributions
-- Central Limit Theorem
-- Standard error
-- Confidence intervals
-- Hypothesis testing
-- Correlation
-- Statistical reasoning for Data Science
+### 5. Statistics
+Descriptive statistics, probability, distributions, sampling, confidence intervals, hypothesis testing, correlation, and statistical reasoning.
 
 ### 6. Visualization
-
-#### Matplotlib 
-
-- Figure and Axes
-- Line charts
-- Bar charts
-- Grouped and stacked bar charts
-- Histograms
-- Scatter plots
-- Pie charts
-- Area charts
-- Multiple lines and legends
-- Ticks and tick labels
-- Subplots
-- Professional chart formatting
-- Choosing the right chart
-- Pandas + Matplotlib
-- Real-world visualization practice
-
-#### Seaborn
-
-- Statistical visualizations
-- Distribution plots
-- Categorical plots
-- Relationship plots
-- Heatmaps
-- Advanced visualization for analysis
+Matplotlib and Seaborn charts, figure/axes, formatting, distribution and categorical plots, relationships, heatmaps, and choosing suitable charts.
 
 ### 7. Exploratory Data Analysis (EDA)
-
-- Understanding the business problem
-- Understanding the dataset
-- Data quality checks
-- Missing values and duplicates
-- Univariate analysis
-- Bivariate and multivariate analysis
-- Outlier analysis
-- Feature relationships
-- Visualization and storytelling
-- Finding insights and making business recommendations
+Understanding business questions, data quality, missing values, duplicates, univariate/bivariate analysis, unusual values, feature relationships, visualization, and insights.
 
 ### 8. Real-World Dataset Practice
-
-Practice EDA and analysis on realistic datasets from different business areas, including:
-
-- E-commerce
-- Finance
-- Marketing
-- Customer analytics
-- Operations
-- Other practical business datasets
-
-The focus will be on deciding what to investigate, choosing the relevant columns, selecting the correct analysis and visualization, interpreting the result, and making a useful business recommendation.
+Hands-on EDA across retail and used-car listings. See the [EDA folder](EDA/README.md).
 
 ### 9. Machine Learning
+Machine learning workflow, supervised and unsupervised learning, regression, classification, clustering, feature engineering, train/test split, evaluation, cross-validation, scikit-learn, pipelines, and practical modeling.
 
-- Machine learning workflow
-- Supervised and unsupervised learning
-- Regression
-- Classification
-- Clustering
-- Feature engineering
-- Train/validation/test split
-- Model evaluation
-- Cross-validation
-- Scikit-learn
-- ML pipelines
-- Practical model building
-
-### 10. Advanced Machine Learning
-
-- Ensemble methods
-- Feature selection
-- Hyperparameter tuning
-- Model comparison
-- Handling imbalanced data
-- Model interpretation
-- Improving generalization and reliability
-
-### 11. Projects
-
-Build end-to-end projects that combine:
-
-- Python
-- SQL
-- Pandas and NumPy
-- Statistics
-- Visualization
-- EDA
-- Machine Learning
-- Business problem solving
-- Documentation and GitHub workflow
-
-## Repository Structure
-
-Each major topic has its own folder containing learning notes, practice work, and related projects.
-
+### 10. Projects
+End-to-end projects combining Python, SQL, Pandas, NumPy, statistics, visualization, EDA, machine learning, business reasoning, and GitHub documentation.
